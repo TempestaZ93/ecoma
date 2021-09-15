@@ -1,0 +1,25 @@
+{
+  "name": "ecoma",
+  "version": "0.0.1",
+  "description": "Web App to manage companies in New World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TempestaZ93/ecoma.git"
+  },
+  "keywords": [
+    "New",
+    "World",
+    "Comany",
+    "Management"
+  ],
+  "author": "Philipp Gagel",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/TempestaZ93/ecoma/issues"
+  },
+  "homepage": "https://github.com/TempestaZ93/ecoma#readme"
+}
