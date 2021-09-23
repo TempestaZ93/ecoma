@@ -1,0 +1,20 @@
+{
+    "home": {
+        "topic": "Svelte Lokalisierungstutorial",
+        "subtopic": "Internationalisierung und Lokalisierung"
+    },
+    "header": {
+        "home": "Home",
+        "contact": "Kontakt",
+        "about": "Über"
+    },
+    "framework": {
+        "languages": "Es gibt {n, plural, =0 {keine Sprache} one {# eine Sprache} other {# mehrere Sprachen}} in diesem Tutorial",
+        "rtl": "{n, plural, =0 {Keine Sprachen sind} one {# Nur eine Sprache ist} other {# Mehrere Sprachen sind}} von rechts nach links geschrieben",
+        "released_at": "Veröffentlicht {date}"
+    },
+    "footer": {
+        "line1": "Begleitung zu einem <a href=\"{phraseUrl}\">Lokalisierungs</a>-Artikel.",
+        "line2": "Umgesetzt mit <a href=\"{svelteUrl}\">Svelte</a> &amp; <a href=\"{bulmaUrl}\">Materialize</a>."
+    }
+}
